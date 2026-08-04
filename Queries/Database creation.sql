@@ -1,0 +1,1 @@
+create database 50_Days_SQL_Challenge;
