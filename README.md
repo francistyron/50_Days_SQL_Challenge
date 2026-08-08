@@ -76,3 +76,21 @@ Identify and fix logically incorrect or invalid values in the dataset.
 ### Outcome
 Dataset now contains only valid and reliable values, improving data accuracy.
 
+
+
+## Day 6: Data Cleaning (Outlier Detection & Handling)
+### Objective
+Identify and handle extreme values (outliers) in the dataset.
+### Tasks Completed
+- Detected outliers using business thresholds (e.g., salary range)
+- Flagged outliers using a new column (is_outlier)
+- Differentiated between valid and invalid outliers
+- Replaced incorrect outliers using client-provided data
+- Preserved valid extreme values (e.g., CEO salary)
+### Key Learning
+- Not all outliers are errors — some are meaningful
+- Outliers should be analyzed, not blindly removed
+- Business understanding is essential in decision-making
+### Outcome
+Outliers are properly identified and handled, ensuring both accuracy and meaningful insights.
+
