@@ -132,7 +132,7 @@ Date format fixing
 
 
 
-## Day 10 SQL Tasks
+## Day 10: SQL Tasks
 ### Tasks Completed
 - What are the performance ratings of each employee?
 - Which employees do not have any salary records?
