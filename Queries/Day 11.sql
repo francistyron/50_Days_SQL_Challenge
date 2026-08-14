@@ -28,7 +28,7 @@ SELECT
     p.rating_2023,
     p.rating_2024
 FROM cleaned_employees e
-LEFT JOIN cleaned_department d
+JOIN cleaned_department d
     ON e.dept_id = d.dept_id
 JOIN cleaned_salary s
     ON e.emp_id = s.emp_id
