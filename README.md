@@ -148,4 +148,14 @@ Date format fixing
 - What is the employee name, department, and performance ratings?
 - What is the complete profile of each employee (department, salary, performance)?
 - How many salary records does each employee have?
-- What is the total salary paid to each employee? 
+- What is the total salary paid to each employee?
+
+
+
+
+## Day 12: SQL Tasks
+### Tasks Completed
+- What is the employee name, department, and performance ratings?
+- What is the complete profile of each employee (department, salary, performance)?
+- How many salary records does each employee have?
+- What is the total salary paid to each employee?
