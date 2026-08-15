@@ -43,6 +43,7 @@ e.emp_name,
 COUNT(s.salary_id) as salary_record
 from cleaned_employees e
 JOIN cleaned_salary s
+ON e.emp_id = s.emp_id
 GROUP BY emp_id, emp_name
 HAVING COUNT(s.salary_id)>1;
 
