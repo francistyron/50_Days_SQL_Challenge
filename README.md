@@ -159,3 +159,13 @@ Date format fixing
 - What is the complete profile of each employee (department, salary, performance)?
 - How many salary records does each employee have?
 - What is the total salary paid to each employee?
+
+
+
+
+## Day 13: SQL Tasks
+### Tasks Completed
+- List employees earning more than average salary
+- List employees with salary equal to maximum salary
+- List employees earning less than average salary
+- List employees with minimum salary
