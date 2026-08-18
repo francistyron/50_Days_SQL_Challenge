@@ -188,3 +188,13 @@ Date format fixing
 - List employees without salary records
 - List employees with attendance records
 - List employees without attendance records
+
+
+
+
+## Day 16: SQL Tasks (Aggregation – Salary Analysis)
+### Tasks Completed
+- Calculate total salary paid to each employee
+- Calculate average salary of each employee
+- Count number of salary records for each employee
+- Find maximum salary received by each employee
