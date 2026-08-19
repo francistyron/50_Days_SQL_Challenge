@@ -198,3 +198,13 @@ Date format fixing
 - Calculate average salary of each employee
 - Count number of salary records for each employee
 - Find maximum salary received by each employee
+
+
+
+
+## Day 17: SQL Tasks (GROUP BY + HAVING)
+### Tasks Completed
+- List employees with more than 2 salary records
+- List departments with more than 3 employees
+- List employees with total salary greater than 100000
+- List departments with high average salary (greater than 50000)
