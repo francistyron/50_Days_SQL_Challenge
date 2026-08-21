@@ -10,7 +10,7 @@ FROM cleaned_employees e
 JOIN cleaned_salary s 
 ON e.emp_id = s.emp_id
 GROUP BY e.emp_id, e.emp_name
-HAVING COUNT()
+HAVING COUNT(s.salary_id) > 2
 
 
 ---2. List departments with more than 3 employees
