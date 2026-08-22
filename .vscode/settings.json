@@ -28,6 +28,20 @@
             "database": "50_Days_SQL_Challenge",
             "username": "root",
             "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "sql.local",
+            "database": "Online_Food_Delivery_Project",
+            "username": "root"
         }
     ]
 }
