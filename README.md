@@ -208,3 +208,33 @@ Date format fixing
 - List departments with more than 3 employees
 - List employees with total salary greater than 100000
 - List departments with high average salary (greater than 50000)
+
+
+
+
+## Day 18: SQL Tasks (Advanced Filtering & Aggregation)
+### Tasks Completed
+- List employees whose average performance rating is greater than 4
+- List employees with more than 2 present days
+- List departments where total salary paid is greater than 200000
+- List employees whose total salary is greater than their department average salary
+
+
+
+
+## Day 19: SQL Tasks (CASE WHEN – Categorization)
+### Tasks Completed
+- Categorize employees based on salary (Low / Medium / High)
+- Categorize employees based on performance rating (Good / Average / Poor)
+- Categorize employees based on attendance status (Active / Inactive)
+- Categorize employees based on experience level (Fresher / Mid-Level / Experienced)
+
+
+
+
+## Day 20: SQL Tasks (Window Functions – ROW_NUMBER & Ranking)
+### Tasks Completed
+- Retrieve latest salary record for each employee
+- Retrieve first (oldest) salary record for each employee
+- Rank salary entries for each employee
+- Get top 2 salary records per employee
