@@ -14,6 +14,8 @@ Set up the SQL project environment and prepare the dataset for analysis.
 Successfully completed project setup. Ready to start data cleaning and analysis from Day 2.
 
 
+
+
 ## Day 2: Data Audit (Messiness Detection)
 ### Objective
 Identify data issues across all tables and columns.
@@ -23,6 +25,8 @@ Identify data issues across all tables and columns.
 -Identified NULL and empty values
 ### Outcome
 Understood that data cleaning is required across the entire system before analysis.
+
+
 
 
 ## Day 3: Data Cleaning (Handling Missing Values)
@@ -60,6 +64,7 @@ Text data is now consistent, making grouping, filtering, and analysis accurate.
 
 
 
+
 ## Day 5: Data Cleaning (Handling Invalid Values)
 ### Objective
 Identify and fix logically incorrect or invalid values in the dataset.
@@ -78,6 +83,7 @@ Dataset now contains only valid and reliable values, improving data accuracy.
 
 
 
+
 ## Day 6: Data Cleaning (Outlier Detection & Handling)
 ### Objective
 Identify and handle extreme values (outliers) in the dataset.
@@ -93,6 +99,7 @@ Identify and handle extreme values (outliers) in the dataset.
 - Business understanding is essential in decision-making
 ### Outcome
 Outliers are properly identified and handled, ensuring both accuracy and meaningful insights.
+
 
 
 
@@ -257,3 +264,12 @@ Date format fixing
 - Show each employee with average salary of their department
 - Show total salary of each department for every employee
 - Show average performance rating of each department
+
+
+
+
+## Day 23: SQL Tasks (LAG – Trend Analysis)
+### Tasks Completed
+- Show current salary along with previous salary for each employee
+- Calculate difference between current salary and previous salary
+- Analyze attendance trend (compare current status with previous status)
