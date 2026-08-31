@@ -310,4 +310,14 @@ Date format fixing
 - Compare each employee's salary with overall average salary (> avg → Above Avg, < avg → Below Avg, = avg → Equal)
 - Compare employee salary with total salary of all employees (salary > 10% of total salary → High Contributor, else → Low
 - Contributor)
-• Compare department total salary with overall total salary (dept total > 30% of total → High Dept, else → Low Dept)
+- Compare department total salary with overall total salary (dept total > 30% of total → High Dept, else → Low Dept)
+
+
+
+
+## Day 28: SQL Tasks (Advanced Analysis & Ranking)
+### Tasks Completed
+- Find top 2 highest paid employees in each department
+- Calculate salary gap (difference between current salary and previous salary)
+- Calculate performance gap (change in performance between years)
+- Filter only top performers based on ranking
