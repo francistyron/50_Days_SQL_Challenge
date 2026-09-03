@@ -17,6 +17,7 @@ GROUP BY
 HAVING SUM(s.salary) > 100000;
 
 
+
 ---2. Show employee salary along with department average
 salary using CTE
 
@@ -59,4 +60,3 @@ GROUP BY
     d.dept_name
 ORDER BY total_salary DESC
 LIMIT 1;
-
