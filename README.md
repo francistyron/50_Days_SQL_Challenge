@@ -349,4 +349,13 @@ Date format fixing
 - Find employees whose total salary is greater than 100000
 - Show employee salary along with department average salary using CTE
 - Find department with highest total salary
-  
+
+
+
+
+## Day 32: SQL Tasks (Views – Reusable Queries)
+### Tasks Completed
+- Create employee view to store reusable employee details
+- Create salary view to store salary-related data
+- Create joined view combining employee and salary details
+- Use created view to filter employees with salary greater than 50000
