@@ -369,3 +369,13 @@ Date format fixing
 - Create view for high salary employees (salary > 50000) and fetch data from it
 - Create multi-table view combining employee, department, and salary
 - Create HR dashboard view for high salary employees with department name
+
+
+
+
+## Day 34: SQL Tasks (Indexing – Query Optimization)
+### Tasks Completed
+- Create index on emp_id to speed up employee search
+- Create index on dept_id for faster department-based filtering
+- Create composite index on (emp_id, salary_date) for optimized multi-column queries
+ 
