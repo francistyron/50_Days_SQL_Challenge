@@ -388,3 +388,13 @@ Date format fixing
 - Apply index on join columns and compare performance after indexing
 - Analyze query using multiple conditions (emp_id, salary_date) and optimize using composite index
 - Compare query performance before and after applying index on emp_id
+
+
+
+
+## Day 36: SQL Tasks (Stored Procedures)
+### Tasks Completed
+- Create a procedure to get all employee data
+- Create a procedure with input parameter to find employee by emp_id
+- Create a procedure using JOIN to fetch employee and salary details
+- Create a procedure for salary report (employees with salary > 50000)
