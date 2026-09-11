@@ -415,3 +415,13 @@ Date format fixing
 ### Tasks Completed
 - Create BEFORE UPDATE trigger to prevent negative salary updates
 - Create AFTER INSERT trigger to log attendance records automatically
+
+
+
+
+## Day 39: SQL Tasks (Triggers – Validation & Logging)
+### Tasks Completed
+- Create BEFORE INSERT trigger to prevent negative salary insertion
+- Automatically convert negative salary values to 0 before inserting data
+- Create AFTER UPDATE trigger to track salary changes
+- Store old salary and new salary records inside salary_logs table
