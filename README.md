@@ -435,3 +435,11 @@ Date format fixing
 - Insert aggregated salary data into temporary table
 - Join temporary table with employee table to fetch employee details
 - Drop temporary table after usage
+
+
+
+
+## Day 41: SQL Tasks (Database Creation & Dataset Loading)
+### Tasks Completed
+- Create all tables based on the given ER Diagram
+- Load dataset into MySQL tables using import/load methods
