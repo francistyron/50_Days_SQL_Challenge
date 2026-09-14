@@ -33,6 +33,16 @@ CREATE Table raw_order_details(
 );
 
 
+
+
+CREATE Table raw_payments(
+    payment_id varchar(50),
+    order_id varchar(50),
+    payment_amount int(50),
+    payment_date varchar(50)
+);
+
+
 ---2. Load datasets into MYSQL tables using import/load methods
 
 
