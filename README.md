@@ -478,4 +478,18 @@ Date format fixing
 - Calculate total revenue from payments
 - Calculate average order value
 - Find total products sold
-• Calculate orders per customer using GROUP BY
+- Calculate orders per customer using GROUP BY
+
+
+
+
+## Day 45: SQL Tasks (Customer Analysis)
+### Tasks Completed
+- Find top customers by number of orders
+- Find top customers by generated revenue
+- Find customers with no orders
+- Analyze new customer signup trend month-wise
+- Find repeat customers with multiple orders
+- Calculate customer lifetime value
+- Calculate average spend per customer
+- Find total customers per city
