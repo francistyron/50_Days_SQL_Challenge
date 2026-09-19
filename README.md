@@ -506,3 +506,16 @@ Date format fixing
 - Find the highest priced product that was sold.
 - Find average product price category-wise.
 - Find daily quantity sold for each product.
+
+
+
+
+## Day 47: SQL Tasks (Order Analysis)
+### Tasks Completed
+- Find number of orders placed daily.
+- Find monthly order trend.
+- Find the highest value order.
+- Find the lowest value order.
+- Find average quantity per order.
+- Categorize orders by quantity size (Small / Medium / Large Orders).
+- Find the day with the highest number of orders.
