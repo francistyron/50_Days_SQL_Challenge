@@ -532,3 +532,16 @@ Date format fixing
 - Find customer-wise revenue.
 - Find category-wise revenue.
 - Find days generating highest revenue.
+
+
+
+
+## Day 49: Advanced Business Analysis: CTE, Ranking & Stored Procedures
+### Tasks Completed
+- Find Top 5 Customers by Revenue using CTE.
+- Find Top 5 Products by Quantity Sold using CTE
+- Rank customers based on generated revenue using DENSE_RANK().
+- Rank products based on quantity sold using RANK()
+- Find category-wise revenue using CTE.
+- Categorize customers into High, Medium, and Low Revenue groups using CASE.
+- Create Stored Procedure for Customer Revenue Report.
