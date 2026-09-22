@@ -557,4 +557,4 @@ Date format fixing
 - Analysed monthly customer and revenue trends
 - Compared product category performance
 - Identified high- and low-volume products
-#### ================THE END OF 50 DAYS OF SQL CHALLENGE==============
+#### =============THE END OF 50 DAYS OF SQL CHALLENGE==============
