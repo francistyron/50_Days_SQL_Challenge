@@ -545,3 +545,15 @@ Date format fixing
 - Find category-wise revenue using CTE.
 - Categorize customers into High, Medium, and Low Revenue groups using CASE.
 - Create Stored Procedure for Customer Revenue Report.
+
+
+
+
+## Day 50: Business Insights Discovered
+### Tasks Completed
+- Analysed key performance indicators
+- Examined customer distribution across cities
+- Identified top customers by order volume
+- Analysed monthly customer and revenue trends
+- Compared product category performance
+- Identified high- and low-volume products
